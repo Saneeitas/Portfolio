@@ -192,10 +192,12 @@ p {
   line-height: 1.5;
 }
 .link{
-  color: #8f8f8f;
+  color: white;
+  text-decoration: none;
 }
 .link:hover{
   color: white;
+   text-decoration: underline;
 }
 /* Footer */
 
